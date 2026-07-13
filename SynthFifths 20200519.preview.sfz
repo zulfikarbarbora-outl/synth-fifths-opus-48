@@ -1,0 +1,90 @@
+// === Preview SFZ (Opus 48k) ===
+// Auto-generated from SynthFifths 20200519.sfz
+// Original: https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-fifths/main/SynthFifths%2020200519.sfz
+// All sample= paths now point to .opus files in this repo
+
+//+ Name: Synth Fifths
+//+ Date: 2020-05-19
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-lead.html#Fifths
+
+<global>
+ //+ Instrument: Synth Fifths
+ ampeg_release=0.25
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=33 hikey=41
+ pitch_keycenter=40
+ loop_start=120000 loop_end=239999
+ sample=samples/E2.opus
+<region>
+ lokey=42 hikey=45
+ pitch_keycenter=44
+ loop_start=120000 loop_end=239999
+ sample=samples/G#2.opus
+<region>
+ lokey=46 hikey=49
+ pitch_keycenter=48
+ loop_start=120000 loop_end=239999
+ sample=samples/C3.opus
+<region>
+ lokey=50 hikey=53
+ pitch_keycenter=52
+ loop_start=120000 loop_end=239999
+ sample=samples/E3.opus
+<region>
+ lokey=54 hikey=57
+ pitch_keycenter=56
+ loop_start=120000 loop_end=239999
+ sample=samples/G#3.opus
+<region>
+ lokey=58 hikey=61
+ pitch_keycenter=60
+ loop_start=120000 loop_end=239999
+ sample=samples/C4.opus
+<region>
+ lokey=62 hikey=65
+ pitch_keycenter=64
+ loop_start=120000 loop_end=239999
+ sample=samples/E4.opus
+<region>
+ lokey=66 hikey=69
+ pitch_keycenter=68
+ loop_start=120000 loop_end=239999
+ sample=samples/G#4.opus
+<region>
+ lokey=70 hikey=73
+ pitch_keycenter=72
+ loop_start=120000 loop_end=239999
+ sample=samples/C5.opus
+<region>
+ lokey=74 hikey=77
+ pitch_keycenter=76
+ loop_start=120000 loop_end=239999
+ sample=samples/E5.opus
+<region>
+ lokey=78 hikey=81
+ pitch_keycenter=80
+ loop_start=120000 loop_end=239999
+ sample=samples/G#5.opus
+<region>
+ lokey=82 hikey=85
+ pitch_keycenter=84
+ loop_start=120000 loop_end=239999
+ sample=samples/C6.opus
+<region>
+ lokey=86 hikey=89
+ pitch_keycenter=88
+ loop_start=120000 loop_end=239999
+ sample=samples/E6.opus
+<region>
+ lokey=90 hikey=93
+ pitch_keycenter=92
+ loop_start=120000 loop_end=239999
+ sample=samples/G#6.opus
+<region>
+ lokey=94 hikey=101
+ pitch_keycenter=96
+ loop_start=120000 loop_end=239999
+ sample=samples/C7.opus
